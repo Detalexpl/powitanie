@@ -1,0 +1,1 @@
+x=MsgBox("DETALEX tu byl",4+16,"Powitanies")
